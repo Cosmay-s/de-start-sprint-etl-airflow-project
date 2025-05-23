@@ -16,8 +16,8 @@ base_url = http_conn_id.host
 
 postgres_conn_id = 'postgresql_de'
 
-nickname = 
-cohort = 
+nickname = 'sanenirem'
+cohort = '6'
 
 headers = {
     'X-Nickname': nickname,
